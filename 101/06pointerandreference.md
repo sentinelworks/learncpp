@@ -1,9 +1,6 @@
-## comment
-    comment one line //
-    comment a block /* */
+## pointer
+    where is a variable/function stored in the memory
 
-## What is variable?
-    constant vs variable
-    define a variable: scope and life time
-    use a variable: assign, retrieval
-    variable naming convention
+## reference
+    alias, another name
+

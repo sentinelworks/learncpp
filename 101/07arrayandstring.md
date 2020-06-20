@@ -1,9 +1,7 @@
-## comment
-    comment one line //
-    comment a block /* */
+## array (data structure)
 
-## What is variable?
-    constant vs variable
-    define a variable: scope and life time
-    use a variable: assign, retrieval
-    variable naming convention
+## sorting (algorithm)
+
+## string
+    array of character
+    #include <string>
