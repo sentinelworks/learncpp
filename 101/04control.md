@@ -1,9 +1,15 @@
-## comment
-    comment one line //
-    comment a block /* */
+## if-else 
 
-## What is variable?
-    constant vs variable
-    define a variable: scope and life time
-    use a variable: assign, retrieval
-    variable naming convention
+## switch 
+
+## for loop
+
+## while loop
+    while(condition) {}
+    do {} while(condition);
+
+## break and continue
+
+## goto (not recommended)
+
+## random number

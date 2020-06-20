@@ -12,5 +12,10 @@
     char, short, int, long, float, dobule, bool, enum
     signed vs unsigned
 
+## varible scope and life time
+    local variable
+    static variable
+    global variable
+
 ## where is variable stored?
     stack, heap, data/bss

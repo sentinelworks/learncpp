@@ -1,9 +1,6 @@
-## comment
-    comment one line //
-    comment a block /* */
+## operator
+    Arithmetic operators +,- * / %
+    logical operator > < >=
+    bitwise operator
 
-## What is variable?
-    constant vs variable
-    define a variable: scope and life time
-    use a variable: assign, retrieval
-    variable naming convention
+## Operator precedence and associativity
