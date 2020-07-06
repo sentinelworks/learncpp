@@ -21,10 +21,15 @@ For example, 1800,1900 were not leap years but 2000 will be; 1904, 1908,...,1996
 
 091. Write a program to read a file and count the number of chars, words, and lines, and print these quantities.
 
-
-101. Here's a simple help free challenge to get you started: write a program that takes a file as an argument and counts the total number of lines. Lines are defined as ending with a newline character. Program usage should be
-
-count filename.txt
-and the output should be the line count.
+101. Here's a simple help free challenge to get you started: write a program that takes a file as an argument and counts the total number of lines. Lines are defined as ending with a newline character. Program usage should be count filename.txt, and the output should be the line count.
 
 
+## 6-month Project 
+
+The professor has two integers x and y in range (1, 100).  S and P are two students.  S knows the sum of x and y (x+y) while P knows the product (x*y).  They have the following talks between them: 
+
+    S says "I do not know x and y, but I am sure you do not know either"
+    P says "I did not know, but I know now."
+    S says "Now I also know x and y."
+
+What are x and y?  Write the code to solve the problem.
