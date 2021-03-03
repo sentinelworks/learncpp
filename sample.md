@@ -25,7 +25,7 @@ This is another list
 
 we set up some tables
 
-    a  b\
-  c  d  e  f\
-    g  h\
+      a  b
+      c  d  e  f
+      g  h
 
